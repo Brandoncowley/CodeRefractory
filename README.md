@@ -2,13 +2,9 @@
 
 In this assignment I was given HTML and CSS code to rework, and improve upon with regards to functionality, consolidation of CSS selectors and properties, and an upload to the GitHub. Given the following requirements, we were asked to complete this project.
 
-LINK TO PAGE = 
-
-### Technical Acceptance Criteria: 40%
-
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
-  *  --> I fixed the broken links, giving a full funtionality
+  *  --> I restored full functionality to the website, making all of the links active and correcting errors in the HTML.
 
   *  --> CSS selectors and properties are consolidated and organized to follow semantic structure.
 
