@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <header>
+    <header><!-- in this section we cleaned up the redundant li tags, and changed teh section to a "nav"-->
         <h1>Horiseon<span class="seo"></span></h1>
         <nav>
             <ul>
@@ -20,7 +20,8 @@
     </header>
     <div class="hero"></div>
     <main class="content">
-        <div class="search-engine-optimization">
+        <!-- This line was a div class without adding in the div id first, causing the link to break-->
+        <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="Overhead image of organized desktop" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
@@ -59,7 +60,7 @@
         </section>
         <section class="benefit-cost">
             <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png" alt="cost-management/>
+            <img src="./assets/images/cost-management.png" alt="cost-management"/><!--missing quotation mark-->
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
